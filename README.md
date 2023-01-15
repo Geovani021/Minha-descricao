@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Geovani021
 - 👀 I’m interested in  htm css javascrip
-- 🌱 I’m currently learning html css javascrip
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning  node.js, react, mongo DB
+- 💞️ I’m looking to collaborate on projetos.
 - 📫 How to reach me   19 9 91155080 whast
 
 <!---
